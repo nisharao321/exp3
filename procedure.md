@@ -57,7 +57,7 @@
 19. The observation for point 2 is given below. Enter the required value in the input box provided to evaluate the results.<br>
 <img src="images/k19.png"><br>
 
-20. Click on the NEXT button at the bottom right corner to proceed to the next step. Repeat same procedure for 400rpm.<br>
+20. Click on the NEXT button at the bottom right corner to proceed to the next step. Repeat the same procedure for 400rpm.<br>
 <img src="images/k20.png"><br>
 
 21. Results is being displayed.<br>
