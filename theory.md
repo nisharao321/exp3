@@ -1,6 +1,6 @@
 ### INTRODUCTION<br>
 
-#### Pitot Static Tube
+#### PITOT STATIC 
 
 <p style="text-indent:50px;text-align:justify;"> The Pitot-static tube is an instrument which uses the principle of pressure exerted by flowing air and is suitable for measurements of high velocity. It is not capable of measuring average velocity directly but measures the velocity at a given point in the airway/duct. It was developed between 1952 and 1954 by the National Physical Laboratory and manufactured since 1955 by Airflow Developments Limited, the modified ellipsoidal pitot static tube is recommended in BS 1042 Part-II.</p>
 
@@ -19,7 +19,7 @@
 <p style="text-indent:50px;text-align:justify;">Since the reading obtained by a Pitot-static tube gives only the point velocity it is necessary to adopt a technique to obtain the average velocity of the airway. To do this, the cross section of the airway/duct is divided into a number of equal areas similar in shape to the complete opening and the velocity at the centre of each area is measured by this instrument. These readings are averaged over the whole area of the airway to give an estimate of the average air velocity throughout the cross section of the airway. 
 </p>
 
-#### U-Tube Manometer
+#### U-TUBE MANOMETER:
 
 <p style="text-indent:50px;text-align:justify;">This essentially consist of a U tube, one limb of which a tube of uniform bore (6mm internal diameter) and inclined at a low angle with the horizontal, while the other limb is large reservoir whose cross sectional area is 300-400 times that of inclined tube so that any change in the level of the manometric fluid in the reservoir can be neglected in comparison with the change in fluid level in the inclined tube. 
 </p>
